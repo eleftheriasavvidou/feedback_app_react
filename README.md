@@ -8,8 +8,8 @@ React Router v6
 
 How to use:
 
-* npm install to install depedencies
-* npm run dev to run React dev server and the JSON server
+* __npm install__ to install depedencies
+* __npm run dev__ to run React dev server and the JSON server
 
 
 
